@@ -2,6 +2,9 @@
 
 A customizable Pomodoro Timer CLI tool designed to enhance productivity by segmenting tasks into work and rest intervals. The tool is equipped with intuitive progress bars and alert options.
 
+# Project Overview and Licensing
+This project serves as a Debian package derived from my previous repository, termoto. It was specifically designed for GNU/Linux, which is why I have opted for the GNU License
+
 Prerequisites:
 
 * Linux Operating System
